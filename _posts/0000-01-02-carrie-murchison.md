@@ -2,7 +2,7 @@
 <html>
 <head>
  welcome
-</head>
+ to the slideshow</head>
 <body>
   <div class="reveal">
     <div class="step">
